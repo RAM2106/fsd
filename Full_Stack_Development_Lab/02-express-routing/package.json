@@ -1,0 +1,13 @@
+{
+  "name": "experiment-2-express-routing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "routing": "node 2a-routing/routing.js",
+    "methods": "node 2b-http-methods/methods.js",
+    "middleware": "node 2c-middleware/middleware.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

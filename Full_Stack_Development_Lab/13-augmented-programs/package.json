@@ -1,0 +1,11 @@
+{
+  "name": "experiment-13-todo-express",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "todo": "node 13a-todo-express/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

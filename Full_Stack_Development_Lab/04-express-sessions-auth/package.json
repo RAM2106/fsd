@@ -1,0 +1,13 @@
+{
+  "name": "experiment-4-express-sessions-auth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sessions": "node 4a-sessions/session.js",
+    "auth": "node 4b-authentication/auth.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  }
+}

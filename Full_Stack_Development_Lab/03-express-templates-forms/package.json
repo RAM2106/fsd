@@ -1,0 +1,13 @@
+{
+  "name": "experiment-3-express-templates-forms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "ejs": "node 3a-ejs/app.js",
+    "form": "node 3b-form-data/form.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}

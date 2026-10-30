@@ -1,0 +1,12 @@
+{
+  "name": "experiment-5-database-rest-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "crud": "node 5a-mongoose-crud/database.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
